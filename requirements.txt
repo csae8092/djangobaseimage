@@ -17,7 +17,7 @@ django-tables2==2.3.3
 djangorestframework==3.12.2
 idna==2.10
 isodate==0.6.0
-lxml==4.5.2
+lxml==4.6.2
 numpy==1.19.2
 pandas==1.2.0
 psycopg2-binary==2.8.6
